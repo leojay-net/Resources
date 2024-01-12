@@ -1,1 +1,1 @@
-# Candence_struct
+# Candence_Resource
